@@ -1,18 +1,40 @@
-# Hola, soy Michael Santos 👋
+<div align="center">
 
-Full-Stack Developer en formación — **Técnico en Desarrollo de Sistemas con Inteligencia Artificial** en Campuslands (etapa lectiva en **Globant**). Construyo productos de punta a punta: interfaces claras, APIs sólidas y bases de datos bien modeladas.
+# 🏴‍☠️ SE BUSCA 🏴‍☠️
 
-**🧭 [Portafolio →](https://mic022.github.io/portafolio/)**
-Armado como un mapa de sistema de transporte: cada área de mi perfil es una línea de color, cada proyecto una estación.
+### Michael Santos
+**"El Desarrollador de Sistemas"**
+
+*Última vez visto navegando el Grand Line del código*
+
+**💰 Recompensa: ฿ 50.000.000 (y subiendo)**
+
+</div>
 
 ---
 
-### 🎓 Formación
+### 🧭 Bitácora del Log Pose
 
-- Técnico en Desarrollo de Sistemas — Campuslands
-- Técnico en Desarrollo de Sistemas con IA — Campuslands *(dic. 2025 – nov. 2026, etapa lectiva en Globant)*
+Zarpé desde East Blue con lo básico (Bachillerato, NIGRINIS) y hoy navego entre dos rutas de formación en Campuslands — la de **Desarrollo de Sistemas** y la de **Desarrollo de Sistemas con Inteligencia Artificial**, esta última con etapa lectiva a bordo del barco de **Globant**.
 
-### 🛠️ Stack
+Mi tesoro no es el One Piece — es construir productos web de punta a punta: interfaces claras, APIs sólidas y bases de datos que no se caen al primer Buster Call.
+
+**🗺️ [Ver mi mapa del tesoro completo (portafolio) →](https://mic022.github.io/portafolio/)**
+*(armado literalmente como un mapa de metro — cada capa de mi perfil es una línea, cada proyecto una estación)*
+
+---
+
+### 🍈 Mi Fruta del Diablo
+
+```
+Full Stack no Mi
+Modelo: Código
+Tipo: Paramecia (todavía no despierta del todo)
+```
+
+Me permite estirarme entre el frontend y el backend sin romperme — pero como toda fruta del diablo, tiene su debilidad: **Kairōseki de los bugs de CSS a las 2 AM.**
+
+### ⚔️ Mi tripulación (stack)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-14161C?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14161C?style=flat-square&logo=python&logoColor=3776AB)
@@ -24,19 +46,35 @@ Armado como un mapa de sistema de transporte: cada área de mi perfil es una lí
 ![Docker](https://img.shields.io/badge/Docker-14161C?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-14161C?style=flat-square&logo=git&logoColor=F05032)
 
-### 📌 Proyectos destacados
+---
 
-| Proyecto | Descripción | Stack |
+### 🏝️ Islas conquistadas
+
+Cada proyecto es una isla real que visité — con su propia gente, su propio problema, y algo que dejé funcionando ahí.
+
+| Isla | Lo que encontré | Con qué navegué |
 |---|---|---|
-| **[CampusVerse AI](https://github.com/velascodazasergio-png/CampusVerse-AI-hackathon)** | Mentor educativo con IA — hackathon "Campuslands Inteligente" | React · n8n · Gemini AI |
-| **[RapidExpress](https://github.com/velascodazasergio-png/RapidExpress-triada_JAVA)** | Gestión de flotas y rutas, sistema en consola | Java · MySQL · Maven |
-| **[CampusBuild](https://github.com/Mic022/Sistema_de_gesti-n_de_proyectos_CampusBuild-grupo-Plan--A)** | Gestión de proyectos de construcción, SPA sin frameworks | JavaScript · Web Components |
-| **[Netflix DB](https://github.com/Mic022/PostgreSQL_netflix)** | Normalización de un catálogo a 3FN | PostgreSQL · Docker |
+| 🤖 **[CampusVerse AI](https://github.com/velascodazasergio-png/CampusVerse-AI-hackathon)** | Mentor educativo con IA — hackathon "Campuslands Inteligente" | React · n8n · Gemini AI |
+| 🚚 **[RapidExpress](https://github.com/velascodazasergio-png/RapidExpress-triada_JAVA)** | Sistema de gestión de flotas y rutas, en consola | Java · MySQL · Maven |
+| 🏗️ **[CampusBuild](https://github.com/Mic022/Sistema_de_gesti-n_de_proyectos_CampusBuild-grupo-Plan--A)** | Gestión de proyectos de construcción, sin frameworks | JavaScript · Web Components |
+| 🎬 **[Netflix DB](https://github.com/Mic022/PostgreSQL_netflix)** | Un catálogo caótico, normalizado a 3FN | PostgreSQL · Docker |
 
-Más contexto y detalle de cada uno en el [portafolio](https://mic022.github.io/portafolio/).
+*Contexto, rol y resultado de cada una — con más detalle — en el [portafolio](https://mic022.github.io/portafolio/).*
 
-### 📫 Contacto
+---
+
+### 🎯 Mi One Piece
+
+No busco ser el Rey de los Piratas. Busco ser el/la developer al que un equipo llama cuando algo tiene que quedar bien hecho, no solo terminado.
+
+### 📡 Den Den Mushi (contacto)
 
 [![Email](https://img.shields.io/badge/Email-14161C?style=flat-square&logo=gmail&logoColor=white)](mailto:maicolsantosrondon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-14161C?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/michael-santos-rondon-588494391/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-14161C?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.me/573212312467)
+
+<div align="center">
+
+*"Un desarrollador que renuncia a mejorar su código en el momento en que decide 'está terminado' — ese momento es su final."*
+
+</div>
