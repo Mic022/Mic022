@@ -35,10 +35,6 @@ Armado como un mapa de sistema de transporte: cada área de mi perfil es una lí
 
 Más contexto y detalle de cada uno en el [portafolio](https://mic022.github.io/portafolio/).
 
-### 📊 Actividad
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mic022&show_icons=true&hide_title=true&theme=default&hide_border=true)
-
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-14161C?style=flat-square&logo=gmail&logoColor=white)](mailto:maicolsantosrondon@gmail.com)
